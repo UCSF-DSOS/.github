@@ -8,3 +8,7 @@
 
 * **Libary News Page**: https://www.library.ucsf.edu/news/python-sql-and-ai-workshops-spring-2026/
 * **Repository Page**: https://ucsf-dsos.github.io/UCSF-DSOS-Python-SQL-Workshops/
+
+## R workshops
+
+- [*A Slower Introduction to R*](https://ucsf-dsos.github.io/a-slower-introduction-to-r)
