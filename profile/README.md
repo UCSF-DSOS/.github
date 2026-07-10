@@ -1,4 +1,4 @@
-# UCSF Library Data Science and Open Scholarship
+## About us
 
 The Data Science and Open Scholarship Team serves as a campus hub for education and support in data science and scholarly communication. We work with colleagues across UCSF to build excitement for open research, and empower researchers to do reproducible science. We do this by teaching foundational skills, engaging champions, and building collaborative and inclusive communities.
 
