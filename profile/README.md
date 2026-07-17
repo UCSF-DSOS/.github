@@ -18,5 +18,5 @@ Learn more [on our website](https://www.library.ucsf.edu/ask-an-expert/dsos-team
 - [*A Slower Introduction to R*](https://ucsf-dsos.github.io/a-slower-introduction-to-r)
 
 ## Archived Presentations and Courses
--[*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
+- [*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
 
