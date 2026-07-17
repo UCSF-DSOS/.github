@@ -2,7 +2,7 @@
 
 The Data Science and Open Scholarship Team serves as a campus hub for education and support in data science and scholarly communication. We work with colleagues across UCSF to build excitement for open research, and empower researchers to do reproducible science. We do this by teaching foundational skills, engaging champions, and building collaborative and inclusive communities.
 
-Our website is [here](https://www.library.ucsf.edu/ask-an-expert/dsos-team/).
+Learn more [on our website](https://www.library.ucsf.edu/ask-an-expert/dsos-team/).
 
 ## Python workshops
 
@@ -14,3 +14,6 @@ Our website is [here](https://www.library.ucsf.edu/ask-an-expert/dsos-team/).
 ## R workshops
 
 - [*A Slower Introduction to R*](https://ucsf-dsos.github.io/a-slower-introduction-to-r)
+
+## Archived Presentations and Courses
+
