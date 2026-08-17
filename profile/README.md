@@ -13,7 +13,7 @@ Our core topics include:
 Learn more about our team [on our website](https://www.library.ucsf.edu/ask-an-expert/dsos-team/).
 
 # Course Calendar
-Register for our upcoming workshops and classes [on our calendar](https://calendars.library.ucsf.edu/calendar/events/?cid=928&t=d&d=0000-00-00&cal=928&ct=27094&inc=0).
+Register for upcoming workshops and classes [on our calendar](https://calendars.library.ucsf.edu/calendar/events/?cid=928&t=d&d=0000-00-00&cal=928&ct=27094&inc=0).
 
 # Course Materials
 
@@ -26,6 +26,7 @@ Register for our upcoming workshops and classes [on our calendar](https://calend
 - [*A Slower Introduction to R*](https://ucsf-dsos.github.io/a-slower-introduction-to-r)
 
 ## Archived Presentations and Courses
+- [*AI in your Toolkit: Critical Approaches to Using AI in your Work - 2025-2026*](https://zenodo.org/records/21686143)
 - [*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
 
 # Contact Info
