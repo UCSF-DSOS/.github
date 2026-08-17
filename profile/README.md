@@ -2,7 +2,18 @@
 
 The Data Science and Open Scholarship Team serves as a campus hub for education and support in data science and scholarly communication. We work with colleagues across UCSF to build excitement for open research, and empower researchers to do reproducible science. We do this by teaching foundational skills, engaging champions, and building collaborative and inclusive communities.
 
-Learn more [on our website](https://www.library.ucsf.edu/ask-an-expert/dsos-team/).
+Our core topics include:
+- Data cleaning, analysis, and visualization
+- Machine learning and AI
+- Programming (R, Python, Unix, SQL)
+- Data management and sharing
+- Scholarly publishing and open access
+- Tracking research impact 
+
+Learn more about our team [on our website](https://www.library.ucsf.edu/ask-an-expert/dsos-team/).
+
+# Course Calendar
+Register for our upcoming workshops and classes [on our calendar](https://calendars.library.ucsf.edu/calendar/events/?cid=928&t=d&d=0000-00-00&cal=928&ct=27094&inc=0).
 
 # Course Materials
 
@@ -17,3 +28,5 @@ Learn more [on our website](https://www.library.ucsf.edu/ask-an-expert/dsos-team
 ## Archived Presentations and Courses
 - [*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
 
+# Contact Info
+Want to learn more about our classes and workshops? Have a question for our team? Reach out via our [contact form](https://www.library.ucsf.edu/ask-an-expert/contact-a-data-science-expert/).
