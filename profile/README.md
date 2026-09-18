@@ -30,6 +30,7 @@ Register for upcoming workshops and classes [on our calendar](https://calendars.
 - [*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
 - [*Introduction to Inclusive and Collaborative Open Science*](https://zenodo.org/records/22664750)
 - [*GRAD215: Managing your Research for Reproducibility*](https://zenodo.org/records/22100316)
+- [*Designing Reproducible Spreadsheets*](https://zenodo.org/records/22837637)
 
 # Contact Info
 Want to learn more about our classes and workshops? Have a question for our team? Reach out via our [contact form](https://www.library.ucsf.edu/ask-an-expert/contact-a-data-science-expert/).
