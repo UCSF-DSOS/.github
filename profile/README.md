@@ -28,6 +28,7 @@ Register for upcoming workshops and classes [on our calendar](https://calendars.
 ## Archived Presentations and Courses
 - [*AI in your Toolkit: Critical Approaches to Using AI in your Work - 2025-2026*](https://zenodo.org/records/21686143)
 - [*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
+- [*Introduction to Inclusive and Collaborative Open Science*](https://zenodo.org/records/22664750)
 - [*GRAD215: Managing your Research for Reproducibility*](https://zenodo.org/records/22100316)
 
 # Contact Info
