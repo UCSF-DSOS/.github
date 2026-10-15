@@ -26,7 +26,7 @@ Register for upcoming workshops and classes [on our calendar](https://calendars.
 - [*A Slower Introduction to R*](https://ucsf-dsos.github.io/a-slower-introduction-to-r)
 
 ## Data Management Workshops
-- [*UCSF Data Management and Sharing Presentations*](https://canvas.ucsf.edu/courses/3715) Note: requires UCSF login
+- [*UCSF Data Management and Sharing Presentations*](https://canvas.ucsf.edu/enroll/6ADCDF) Note: requires UCSF login
 - *Data Cleaning with OpenRefine* [website](https://arieldeardorff.github.io/OpenRefineWorkshop/index.html) | [archived materials](https://zenodo.org/records/4281566)
 
 ## Archived Presentations and Courses
