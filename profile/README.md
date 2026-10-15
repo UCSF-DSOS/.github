@@ -25,10 +25,13 @@ Register for upcoming workshops and classes [on our calendar](https://calendars.
 
 - [*A Slower Introduction to R*](https://ucsf-dsos.github.io/a-slower-introduction-to-r)
 
+## Data Management Workshops
+- [*UCSF Data Management and Sharing Presentations*](https://canvas.ucsf.edu/enroll/6ADCDF) Note: UCSF only
+- *Data Cleaning with OpenRefine* [website](https://arieldeardorff.github.io/OpenRefineWorkshop/index.html) | [archived materials](https://zenodo.org/records/4281566)
+
 ## Archived Presentations and Courses
 - [*AI in your Toolkit: Critical Approaches to Using AI in your Work - 2025-2026*](https://zenodo.org/records/21686143)
 - [*Safeguarding Public Data: Rescuing Federal Research Datasets*](https://zenodo.org/records/20670468)
-- *Data Cleaning with OpenRefine* [website](https://arieldeardorff.github.io/OpenRefineWorkshop/index.html) | [archived materials](https://zenodo.org/records/4281566)
 - [*Introduction to Inclusive and Collaborative Open Science*](https://zenodo.org/records/22664750)
 - [*GRAD215: Managing your Research for Reproducibility*](https://zenodo.org/records/22100316)
 - [*Designing Reproducible Spreadsheets*](https://zenodo.org/records/22837637)
